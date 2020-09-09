@@ -14,7 +14,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23)
 
 
-## Reach me at!
+## Reach me!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ryuichi-nishi-901507194)](https://www.linkedin.com/in/ryuichi-nishi-901507194)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryuichi.nishi24@gmail.com)](mailto:ryuichi.nishi24@gmail.com)
