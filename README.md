@@ -4,8 +4,6 @@
 
 ### Github Stats
 
-![Ryuichi Github Stats](https://github-readme-stats.vercel.app/api?username=ryuichi24&count_private=true&theme=vue&hide_rank=false)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23)
 
 
