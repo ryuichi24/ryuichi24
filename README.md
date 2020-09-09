@@ -1,8 +1,15 @@
-### Hi I'm Ryuichi.
+# Hi I'm Ryuichi.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryuichi24.visitor-badge)
 
-### Github Stats
+## About me
+- 😎 &nbsp; Pasionate about new technologies and a quick learner
+- 🎓 &nbsp; Studying Computer Science in Bulgaria
+- 💼 &nbsp; Worked as a JavaScript developer intern
+- 📝 &nbsp; Interested in leanring kubernetes next
+
+
+## Github Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23)
 
