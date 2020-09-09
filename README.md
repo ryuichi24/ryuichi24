@@ -11,7 +11,7 @@
 
 ## Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23,html)
 
 
 ## Reach me!
