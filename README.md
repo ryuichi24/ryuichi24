@@ -11,7 +11,7 @@
 
 ## Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23,html)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuichi24&theme=vue&layout=compact&hide=c%23,html,scss)
 
 
 ## Reach me!
@@ -21,3 +21,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ryuichi2c)](https://twitter.com/ryuichi2c)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryuichinishi24/)](https://www.instagram.com/ryuichinishi24/)
 [![StackShare Badge](https://img.shields.io/badge/-StackShare-0690FA?style=flat-square&labelColor=0690FA&logo=StackShare&logoColor=white&link=https://stackshare.io/ryuichi24)](https://stackshare.io/ryuichi24)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&labelColor=9146FF&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ryuichi24)](https://www.twitch.tv/ryuichi24)
