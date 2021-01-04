@@ -6,7 +6,7 @@
 - 😎 &nbsp; Pasionate about new technologies and a quick learner
 - 🎓 &nbsp; Studying Computer Science in Bulgaria
 - 💼 &nbsp; Work as a C# junior developer
-- 📝 &nbsp; I love cats 
+- 🐈 &nbsp; I love cats 
 
 
 ## Github Stats
