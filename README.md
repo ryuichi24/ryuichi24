@@ -7,7 +7,7 @@ Web developer
 * 😎 &nbsp; Pasionate about new technologies and a quick learner
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [ryuichi.nishi24@gmail.com](mailto:ryuichi.nishi24@gmail.com)
-* 🧠  I'm learning NestJS
+* 🧠  I'm learning Java, and Spring boot
 * 🐈 I love cats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryuichi24.visitor-badge)
