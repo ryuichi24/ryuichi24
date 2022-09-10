@@ -6,7 +6,7 @@ Software engineer
 
 * 🌍  I'm based in Japan
 * ✉️  You can contact me at [ryuichi.nishi24@gmail.com](mailto:ryuichi.nishi24@gmail.com)
-* 🧠  I'm learning java, Spring boot, and Azure
+* 📚  I'm learning java, Spring boot, and Azure
 * 🐈  I love cats
 
 ### Skills
